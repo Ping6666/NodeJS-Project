@@ -1,0 +1,15 @@
+{
+  "name": "nodejsfirstproject",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ping",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
